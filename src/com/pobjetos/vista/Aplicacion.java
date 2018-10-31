@@ -5,5 +5,7 @@ package com.pobjetos.vista;
  * @author SSolis
  */
 public class Aplicacion {
-
+    public static void main(String[] args) {
+        
+    }
 }
