@@ -5,5 +5,7 @@ package com.pobjetos.modelo;
  * @author SSolis
  */
 public class Movie {
-
+    public static void main(String[] args) {
+        
+    }
 }
